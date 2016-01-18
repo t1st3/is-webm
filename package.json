@@ -1,0 +1,38 @@
+{
+  "name": "is-webm",
+  "version": "0.1.0",
+  "description": "Check if a Buffer/Uint8Array is a WEBM video",
+  "license": "MIT",
+  "repository": "t1st3/is-webm",
+  "author": {
+    "name": "T1st3",
+    "email": "contact@tiste.org",
+    "url": "http://www.tiste.org"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "webm",
+    "video",
+    "web",
+    "type",
+    "detect",
+    "check",
+    "is",
+    "binary",
+    "buffer",
+    "uint8array"
+  ],
+  "devDependencies": {
+    "ava": "^0.10.0",
+    "read-chunk": "^1.0.1",
+    "xo": "^0.12.1"
+  }
+}
