@@ -50,4 +50,4 @@ It only needs the first 4 bytes.
 
 ## License
 
-MIT © [T1st3](http://www.t1st3.org)
+MIT © [T1st3](http://www.tiste.org)
