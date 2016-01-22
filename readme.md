@@ -1,6 +1,6 @@
 # is-webm [![Build Status](https://travis-ci.org/T1st3/is-webm.svg?branch=master)](https://travis-ci.org/T1st3/is-webm)
 
-> Check if a Buffer/Uint8Array is a [WEBM](https://en.wikipedia.org/wiki/WebM) video
+> Check if a Buffer/Uint8Array is a [WEBM](https://en.wikipedia.org/wiki/WebM) video.
 
 
 ## Install
@@ -17,7 +17,7 @@ $ npm install --save is-webm
 ```js
 var readChunk = require('read-chunk'); // npm install read-chunk
 var isWebm = require('is-webm');
-var buffer = readChunk.sync('unicorn.webm', 0, 3);
+var buffer = readChunk.sync('unicorn.webm', 0, 4);
 
 isWebm(buffer);
 //=> true
