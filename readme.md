@@ -1,4 +1,4 @@
-# is-webm [![Build Status](https://travis-ci.org/T1st3/is-webm.svg?branch=master)](https://travis-ci.org/T1st3/is-webm)
+# is-webm [![Build Status](https://travis-ci.org/t1st3/is-webm.svg?branch=master)](https://travis-ci.org/t1st3/is-webm)
 
 > Check if a Buffer/Uint8Array is a [WEBM](https://en.wikipedia.org/wiki/WebM) video.
 
@@ -50,4 +50,4 @@ It only needs the first 4 bytes.
 
 ## License
 
-MIT © [T1st3](http://www.tiste.org)
+MIT © [t1st3](http://www.tiste.org)
