@@ -1,6 +1,6 @@
 {
   "name": "is-webm",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Check if a Buffer/Uint8Array is a WEBM video",
   "license": "MIT",
   "repository": "t1st3/is-webm",
