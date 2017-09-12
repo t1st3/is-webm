@@ -6,8 +6,8 @@
   "repository": "t1st3/is-webm",
   "author": {
     "name": "t1st3",
-    "email": "contact@tiste.org",
-    "url": "http://www.tiste.org"
+    "email": "contact@t1st3.com",
+    "url": "t1st3.com"
   },
   "engines": {
     "node": ">=4"
@@ -33,6 +33,6 @@
   "devDependencies": {
     "ava": "^0.22.0",
     "read-chunk": "^2.0.0",
-    "xo": "^0.18.1"
+    "xo": "^0.18.2"
   }
 }
