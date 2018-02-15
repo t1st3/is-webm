@@ -1,7 +1,7 @@
 import path from 'path';
 import readChunk from 'read-chunk';
 import test from 'ava';
-import isWebm from './';
+import isWebm from '.';
 
 test('should detect WEBM from buffer', t => {
 	t.is(isWebm(readChunk.sync(path.join(__dirname, 'fixture.webm'), 0, 4)), true);
