@@ -33,6 +33,6 @@
   "devDependencies": {
     "ava": "^2.3.0",
     "read-chunk": "^3.0.0",
-    "xo": "^0.25.3"
+    "xo": "^0.29.1"
   }
 }
